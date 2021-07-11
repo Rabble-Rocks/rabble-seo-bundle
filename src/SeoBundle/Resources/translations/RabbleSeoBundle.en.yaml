@@ -1,0 +1,6 @@
+content:
+  tabs:
+    metadata: Metadata
+  meta_description: Meta description
+  meta_keywords: Meta keywords
+  og_image: OpenGraph image
